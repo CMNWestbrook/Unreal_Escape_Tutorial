@@ -8,6 +8,7 @@
 *_BuiltData.uasset
 Content/StarterContent/
 
+*.vs
 
 # Visual Studio Generated Files #
 
